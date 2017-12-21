@@ -44,7 +44,7 @@ R-Ladies"
 
 our_template <- glue::glue(glitter_template)
 
-parcel <- parcel_create(df, sender_name = "BR-Lady, sender_email = "temailgmail.com",
+parcel <- parcel_create(dat, sender_name = "BR-Lady, sender_email = "temailgmail.com",
                         subject = "Polyanna!", template = our_template)
 
 parcel_preview(parcel)     

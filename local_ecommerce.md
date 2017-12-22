@@ -3,5 +3,5 @@
 Please list some local e-commerce working in your country so your match has options to buy directly in your country.
 
 ## Spain
-[Amazon](amazon.es)
-[Etsy](etsy.com) <- filter _shops from Spain_
+- [Amazon](https://amazon.es)
+- [Etsy](https://etsy.com) <- filter _shops from Spain_

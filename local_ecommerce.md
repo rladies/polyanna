@@ -9,3 +9,4 @@ Please list some local e-commerce working in your country so your match has opti
 ## Spain
 - [Amazon](https://amazon.es)
 - [Etsy](https://etsy.com) <- filter _shops from Spain_
+- [Casa Del Libro](https://casadellibro.com)

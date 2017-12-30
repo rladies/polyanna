@@ -69,3 +69,4 @@ vignettes/*.pdf
 .httr-oauth
 
 # End of https://www.gitignore.io/api/r,macos
+.Rproj.user

@@ -5,6 +5,7 @@ Please list some local e-commerce working in your country so your match has opti
 ## Argentina
 - [Mercado Libre](https://www.mercadolibre.com.ar/) Depending on what you are buying and on the seller, they may deliver the purchase or not. Site in Spanish.
 - [Tematika](http://www.tematika.com/) Just books, music, movies, and some hobbies.
+- [Book Depository](https://www.bookdepository.com/) It is international, but books are except of customs duties and arrive in 10-15days.
 
 ## Spain
 - [Amazon](https://amazon.es)

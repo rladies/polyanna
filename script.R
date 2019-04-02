@@ -1,7 +1,7 @@
 library(readr)
 library(dplyr)
 
-gmailr::gmail_auth(scope = "full", id = '171060509499-hach115o8h2od4t45q6nobp97jcgpch4.apps.googleusercontent.com', secret = 'VWsKb5RB9w7o67tlyR7Lzwb-')
+gmailr::gmail_auth()
 
 # Test file with same columns
 # file <- "MOCK_DATA.csv"
